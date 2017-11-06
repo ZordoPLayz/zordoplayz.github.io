@@ -23,10 +23,11 @@ body {
 }
 
 .text {
+    color: #ffffff;
     height: calc(100% - 80px);
-    color: #fff;
     font-family: 'Merriweather', serif;
     font-size: 20px;
+    mix-blend-mode: exclusion;
 }
 
 .description {
